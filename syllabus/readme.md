@@ -70,7 +70,7 @@ Coursework will be based on free open-source software like Anaconda Python, QGIS
   - Oct 03 - Module 05 - data visualization (assignment 3)
   - Oct 10 - Module 06 - geopandas and spatial data
   - Oct 17 - No Class  - Fall Recess
-  - Oct 24 - Module 07 - geopandas and spatial data
+  - Oct 24 - Module 07 - geopandas and spatial data (final project proposals)
   - Oct 31 - Module 08 - mapping and web mapping (assignment 4)
   - Nov 07 - Module 09 - APIs, geocoding, geolocation
   - Nov 14 - Module 10 - spatial weights and ESDA
