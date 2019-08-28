@@ -14,7 +14,7 @@
 # >>> docker push gboeing/urbinf
 #
 # Run jupyter lab in this container:
-# >>> docker run --rm -it --name urbinf -p 8888:8888 -v %cd%:/home/jovyan/work gboeing/urbinf
+# >>> docker run --rm -it -p 8888:8888 -v %cd%:/home/jovyan/work gboeing/urbinf
 #
 # Stop/delete all local docker containers/images:
 # >>> docker stop $(docker ps -aq)

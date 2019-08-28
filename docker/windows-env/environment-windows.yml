@@ -103,7 +103,7 @@ dependencies:
   - matplotlib-base=3.1.1=py37h2852a4a_1
   - mistune=0.8.4=py37hfa6e2cd_1000
   - mkl=2019.4=245
-  - mkl-service=2.2.0=py37hfa6e2cd_0
+  - mkl-service=2.3.0=py37hfa6e2cd_0
   - msys2-conda-epoch=20160418=1
   - munch=2.3.2=py_0
   - nbconvert=5.6.0=py37_1
@@ -166,7 +166,7 @@ dependencies:
   - sip=4.19.8=py37h6538335_1000
   - six=1.12.0=py37_1000
   - soupsieve=1.9.3=py37_0
-  - sqlite=3.29.0=hfa6e2cd_0
+  - sqlite=3.29.0=hfa6e2cd_1
   - statsmodels=0.10.1=py37hfa6e2cd_0
   - terminado=0.8.2=py37_0
   - testpath=0.4.2=py_1001

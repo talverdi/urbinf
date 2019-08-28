@@ -10,8 +10,6 @@ The course's docker image is available from https://hub.docker.com/u/gboeing
 
 ### Run the docker container
 
-### Run the docker container
-
 *On Windows* open a command prompt, change directory to location of notebook file, and run:
 
 ```
