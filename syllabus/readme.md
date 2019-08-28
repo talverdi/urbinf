@@ -1,6 +1,6 @@
-# PPD 499: Urban Informatics
+# Urban Informatics
 
-USC / Fall 19
+USC PPD499 / Fall 19
 
 ## Instructor Info
 
