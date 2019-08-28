@@ -1,4 +1,3 @@
-# Urban Informatics
 # Module 01: Intro to Python
 
 ## Overview
@@ -10,7 +9,7 @@ In this module we will introduce the basics of Python, a powerful programming la
 Please complete these readings *before class begins*.
 
   1. Make sure you have finished reading last week's [getting started with conda](https://conda.io/docs/user-guide/getting-started.html), all about [conda-forge](https://conda-forge.org/), and the [JupyterLab](https://jupyterlab.readthedocs.io) 'getting started' and 'user guide' sections.
-  1. McKinney chapters 1-3 (on blackboard > course material > textbook).
+  1. McKinney chapters 1-3 (on blackboard > course material > textbooks).
   1. Optional: there's a lot to absorb in the first few weeks for newcomers to Python. If you need some clarification or extra practice, read through the relevant sections of Downey's Think Python. It's clear, straightforward, and tailored to absolute beginners.
 
 ## In Class

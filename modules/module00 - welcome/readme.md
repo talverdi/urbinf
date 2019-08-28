@@ -1,4 +1,3 @@
-# Urban Informatics
 # Module 00: Getting Started
 
 ## Overview
