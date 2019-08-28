@@ -41,9 +41,10 @@ The course has no specific prerequisites, but students ideally have some prior e
 
 I am available if you need help throughout the semester and I am happy to answer your questions. By email, you should expect a reply typically within one working day. Office hours info is provided at the beginning of the syllabus. Given the nature of this course, I do expect a few things of you before you seek my assistance with code:
 
-  1. Search google and stackoverflow for the topic in question (for example, the name of the function you're struggling with or the error message you are seeing)
-  2. Go back through the relevant lecture materials to look for any insights
-  3. Go back through the assigned reading materials to look for any insights
+  1. Close all open programs, restart your computer, then try your task again
+  2. Search google and stackoverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+  3. Go back through the relevant lecture materials to look for any insights
+  4. Go back through the assigned reading materials to look for any insights
 
 If the above steps haven't solved your problem, shoot me an email (or drop by office hours) and include the following information:
 
