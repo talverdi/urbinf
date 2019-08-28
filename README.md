@@ -1,2 +1,1 @@
-# urbinf
-USC Urban Informatics course
+# Urban Informatics
