@@ -49,7 +49,7 @@ Download and install [Git](https://git-scm.com/downloads).
 We will install Python via the Miniconda distribution - a lightweight version of Anaconda that lets us install all of our environment's packages ourselves.
 
   1.  Download the Python 3.7 64-bit [Miniconda](https://conda.io/miniconda.html) installer.
-  2.  Install it and, when prompted, make it the system default python and add it to the PATH
+  2.  Install it (for "all users", if asked) and, when prompted, make it the system default python and add it to the PATH
 
 Next we configure conda and create an "environment" for the python packages we'll use in this course. Open a command prompt/terminal window and run the following commands one at a time:
 
