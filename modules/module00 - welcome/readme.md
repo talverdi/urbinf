@@ -52,7 +52,7 @@ We will install Python via the Miniconda distribution - a lightweight version of
   1.  Download the Python 3.7 64-bit [Miniconda](https://conda.io/miniconda.html) installer.
   2.  Install it and, when prompted, make it the system default python and add it to the PATH
 
-Next we configure conda and create an "environment" for the python packages we'll use in this course. Open a command prompt/terminal window and run the following commands:
+Next we configure conda and create an "environment" for the python packages we'll use in this course. Open a command prompt/terminal window and run the following commands one at a time:
 
   1. `conda config --set show_channel_urls true`
   2. `conda config --set channel_priority strict`
