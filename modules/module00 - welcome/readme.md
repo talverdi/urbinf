@@ -9,7 +9,7 @@ In this module we will go over the syllabus and introduce the course software.
 
 Please set aside time early this week to complete these readings *before class*. It'll be a lot to process initially but it's essential to have familiarity with these tools and concepts as we begin the semester.
 
-  1. read the 'basics' and 'folders' sections of this short [DOS prompt guide](http://dosprompt.info/) (Mac users, read this short [terminal guide](http://guides.macrumors.com/Terminal))
+  1. read the 'basics' and 'folders' sections of this short [DOS prompt guide](http://dosprompt.info/) (Mac users, read this short [terminal guide](https://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855))
   1. read this short [markdown tutorial](https://commonmark.org/help/)
   1. read [getting started with conda](https://conda.io/docs/user-guide/getting-started.html), all about [conda-forge](https://conda-forge.org/), and the [JupyterLab](https://jupyterlab.readthedocs.io) 'getting started' and 'user guide' sections. (budget about 75 minutes)
   1. read the short [Git handbook](https://guides.github.com/introduction/git-handbook/)
