@@ -13,7 +13,7 @@ The course's docker image is available from https://hub.docker.com/u/gboeing
 *On Windows* open a command prompt, change directory to location of notebook file, and run:
 
 ```
-docker run --rm -it -p 8888:8888 -v %cd%:/home/jovyan/work gboeing/urbinf:latest
+docker run --rm -it -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/urbinf:latest
 ```
 
 *On Mac/Linux* open a terminal window, change directory to location of notebook file, and run:
@@ -33,7 +33,7 @@ Once the container is running as described above, open your computer's web brows
 *On Windows*:
 
 ```
-docker run --rm -it -v %cd%:/home/jovyan/work gboeing/urbinf:latest /bin/bash
+docker run --rm -it -v "%cd%":/home/jovyan/work gboeing/urbinf:latest /bin/bash
 ```
 
 *On Mac/Linux*:

@@ -5,7 +5,7 @@
 # >>> docker build -t gboeing/urbinf .
 #
 # Run bash in this container and export the conda environment to a yml file:
-# >>> docker run --rm -it -u 0 --name urbinf -v %cd%:/home/jovyan/work gboeing/urbinf /bin/bash
+# >>> docker run --rm -it -u 0 --name urbinf -v "%cd%":/home/jovyan/work gboeing/urbinf /bin/bash
 # >>> conda env export -n base > /home/jovyan/work/environment.yml
 #
 # Push the built image to hub so others can pull/run it:
@@ -14,7 +14,7 @@
 # >>> docker push gboeing/urbinf
 #
 # Run jupyter lab in this container:
-# >>> docker run --rm -it -p 8888:8888 -v %cd%:/home/jovyan/work gboeing/urbinf
+# >>> docker run --rm -it -p 8888:8888 -v "%cd%":/home/jovyan/work gboeing/urbinf
 #
 # Stop/delete all local docker containers/images:
 # >>> docker stop $(docker ps -aq)
