@@ -35,7 +35,6 @@ RUN conda config --set show_channel_urls true && \
     conda update --yes -n base conda && \
     conda install --update-all --force-reinstall --yes --file /tmp/requirements.txt && \
     conda clean --all --yes && \
-    conda env export -n base > environment-windows.yml && \
     conda info --all && \
     conda list
 

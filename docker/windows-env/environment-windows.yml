@@ -200,5 +200,5 @@ dependencies:
   - zeromq=4.3.2=h6538335_2
   - zlib=1.2.11=h2fa13f4_1005
   - zstd=1.4.0=hd8a0e53_0
-prefix: C:\Anaconda\envs\urbinf
+prefix: c:\Anaconda\envs\urbinf
 

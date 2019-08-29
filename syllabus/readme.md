@@ -76,8 +76,8 @@ Coursework will be based on free open-source software like Anaconda Python, QGIS
   - Nov 14 - Module 10 - spatial weights and ESDA
   - Nov 21 - Module 11 - spatial inference (assignment 5)
   - Nov 28 - No Class  - Thanksgiving
-  - Dec 05 - Module 13 - spatial networks
-  - Dec 12 - Final projects due
+  - Dec 05 - Module 12 - spatial networks
+  - Dec 12 - Module 13 - final projects due
 
 ## Assignments and Evaluation
 
