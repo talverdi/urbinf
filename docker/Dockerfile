@@ -42,6 +42,8 @@ RUN conda config --set show_channel_urls true && \
 # launch jupyter in the local working directory that we mount
 WORKDIR /home/jovyan/work
 
+RUN python -m ipykernel install --name urbinf --display-name "Python (urbinf)"
+
 # set default command to launch when container is run
 CMD ["jupyter", "lab", "--ip='0.0.0.0'", "--port=8888", "--no-browser", "--allow-root", "--NotebookApp.token=''", "--NotebookApp.password=''"]
 

@@ -3,11 +3,13 @@ bokeh
 bottleneck
 cartopy
 cython
+dill
 folium
 geopandas
 ipyleaflet
 ipywidgets
 jupyterlab
+mapclassify
 networkx
 nodejs
 numexpr
