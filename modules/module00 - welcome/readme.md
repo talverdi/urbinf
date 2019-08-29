@@ -57,7 +57,7 @@ Next we configure conda and create an "environment" for the python packages we'l
   2. `conda config --set channel_priority strict`
   3. `conda config --prepend channels conda-forge`
   4. `conda update conda -n base --yes`
-  5. `conda create -n urbinf beautifulsoup4 bokeh bottleneck cartopy cython folium geopandas ipyleaflet ipywidgets jupyterlab networkx nodejs numexpr numpy osmnx pillow pip psycopg2 pysal python scikit-learn scipy seaborn statsmodels xlrd xlwt --yes`
+  5. `conda create -n urbinf beautifulsoup4 bokeh bottleneck cartopy cython folium geopandas ipyleaflet ipywidgets jupyterlab networkx nodejs numexpr numpy osmnx pillow pip psycopg2 pyproj=1.9.6 pysal python scikit-learn scipy seaborn statsmodels xlrd xlwt --yes`
   6. `conda activate urbinf`
   7. `python -m ipykernel install --user --name urbinf --display-name "Python (urbinf)"`
   8. `ipython -c "import osmnx; print(osmnx.__version__)"`
