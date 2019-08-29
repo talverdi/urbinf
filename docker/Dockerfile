@@ -5,7 +5,7 @@
 # >>> docker build -t gboeing/urbinf .
 #
 # Run bash in this container and export the conda environment to a yml file:
-# >>> docker run --rm -it -u 0 --name urbinf -v "%cd%":/home/jovyan/work gboeing/urbinf /bin/bash
+# >>> docker run --rm -it -u 0 -v "%cd%":/home/jovyan/work gboeing/urbinf /bin/bash
 # >>> conda env export -n base > /home/jovyan/work/environment.yml
 #
 # Push the built image to hub so others can pull/run it:
