@@ -33,7 +33,7 @@ dependencies:
   - defusedxml=0.5.0=py_1
   - deprecated=1.2.6=py_0
   - descartes=1.1.0=py_3
-  - dill=0.3.0=py37_0
+  - dill=0.3.0=py37_1
   - entrypoints=0.3=py37_1000
   - expat=2.2.5=habb2df7_1003
   - fiona=1.8.6=py37hce0be61_3
@@ -56,7 +56,7 @@ dependencies:
   - intel-openmp=2019.4=245
   - ipykernel=5.1.2=py37h5ca1d4c_0
   - ipyleaflet=0.11.1=py37_1
-  - ipython=7.7.0=py37h5ca1d4c_0
+  - ipython=7.8.0=py37h5ca1d4c_0
   - ipython_genutils=0.2.0=py_1
   - ipywidgets=7.5.1=py_0
   - jedi=0.15.1=py37_0
@@ -67,7 +67,7 @@ dependencies:
   - jsonschema=3.0.2=py37_0
   - jupyter_client=5.3.1=py_0
   - jupyter_core=4.4.0=py_0
-  - jupyterlab=1.1.0=py_0
+  - jupyterlab=1.1.1=py_0
   - jupyterlab_server=1.0.6=py_0
   - kealib=1.4.10=hf7dc31f_1005
   - kiwisolver=1.1.0=py37he980bc4_0
@@ -80,7 +80,7 @@ dependencies:
   - libiconv=1.15=hfa6e2cd_1005
   - libkml=1.3.0=h4ece8bf_1010
   - liblapack=3.8.0=12_mkl
-  - libnetcdf=4.6.2=ha953453_1002
+  - libnetcdf=4.6.2=h376842a_1003
   - libpng=1.6.37=h7602738_0
   - libpq=11.5=hb0bdaea_1
   - libsodium=1.0.17=h2fa13f4_0
@@ -134,7 +134,7 @@ dependencies:
   - poppler=0.67.0=h92819f6_7
   - poppler-data=0.4.9=1
   - postgresql=11.5=h06f7779_1
-  - proj4=5.2.0=h6538335_1005
+  - proj4=5.2.0=h6538335_1006
   - prometheus_client=0.7.1=py_0
   - prompt_toolkit=2.0.9=py_0
   - psycopg2=2.8.3=py37hb32ad35_0
