@@ -19,4 +19,4 @@ Run through the Jupyter notebook.
 
 ### Post-Lecture Assignment:
 
-See instructions for assignment 1
+Complete assignment 1 (see the assignments folder on GitHub) by Sunday 23:59 and submit it via Blackboard.
