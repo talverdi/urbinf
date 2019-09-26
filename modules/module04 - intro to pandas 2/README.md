@@ -1,4 +1,3 @@
-# Advanced Spatial Analysis
 # Module 04: Intro to pandas, Part II
 
 ### Overview:

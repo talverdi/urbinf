@@ -1,4 +1,3 @@
-# Advanced Spatial Analysis
 # Module 02: Python loops, conditionals, and functions
 
 ### Overview:
