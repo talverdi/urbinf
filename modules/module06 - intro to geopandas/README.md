@@ -12,7 +12,3 @@ Read the geopandas User Guide at [http://geopandas.org/](http://geopandas.org/)
 ### Class Session:
 
 Run through the Jupyter notebook.
-
-### After-Class Assignment:
-
-T.B.D.
