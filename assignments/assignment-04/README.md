@@ -1,6 +1,6 @@
 # Assignment 4
 
-Due Sun 3 Nov by 23:59 via Blackboard submission.
+Due Wed 6 Nov by 23:59 via Blackboard submission.
 
 First, get your hands on a data set. You can download one as a file, connect to an API to download data, or use some data set you're working with elsewhere in life. Whatever you'd like. But perhaps consider a data set that helps you move toward the final project. You may use the same data set as in the previous assignment, but preferably choose a new one.
 
