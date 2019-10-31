@@ -13,4 +13,4 @@ Today we will continue introducing the Python geospatial data science stack focu
 
 ### Class Session:
 
-Present final project proposals and discuss. Run through the Jupyter notebook. Work through Leaflet and Carto tutorials.
+Discuss final project proposals. Run through the Jupyter notebook. Work through Leaflet and Carto tutorials.
