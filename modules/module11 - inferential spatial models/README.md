@@ -1,5 +1,5 @@
 # Urban Informatics
-# Module 10: Inferential spatial modeling
+# Module 11: Inferential spatial modeling
 
 ### Overview:
 
